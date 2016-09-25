@@ -1,0 +1,9 @@
+hi
+mkdir
+ping cd mv more 
+pwd
+head tail wc grep
+ls more less cut rm 
+nano wget ifconfig 
+hitory
+
